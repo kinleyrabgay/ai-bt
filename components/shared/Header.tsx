@@ -17,6 +17,7 @@ const Header = () => {
             height={38}
             alt="Evently Logo"
           />
+          {/* <h1 className="text-3xl ">AiBhutan</h1> */}
         </Link>
         <SignedIn>
           <nav className="md:flex-between hidden w-full max-w-xs">
